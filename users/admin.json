@@ -1,7 +1,7 @@
 {
    "status":true,
    "message":null,
-   "limit_time":10,
+   "limit_time":5,
    "limit_chunk":5,
    "endpoint":[
       "https://raw.githubusercontent.com/kdsoftVN/shopee-voucher/main/resources/kdsoft-shopid-hash-0.json",
